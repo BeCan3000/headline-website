@@ -13,10 +13,11 @@ img {
 
 ul {
   text-align: right;
+  padding-left: 2rem;
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 /*Sizing*/
