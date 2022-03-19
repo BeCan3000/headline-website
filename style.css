@@ -32,7 +32,9 @@ h1 {
 }
 
 .main {
-  background-color: #ffc200;
+  /* background-color: #ffc200; */
+  background-color: purple;
+  
 }
 
 /*Header Section*/
