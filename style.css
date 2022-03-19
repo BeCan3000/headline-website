@@ -17,7 +17,6 @@ ul {
 
 h1 {
   font-size: 20px;
-  background-color: #ffc200;
 }
 
 /*Sizing*/
@@ -32,9 +31,7 @@ h1 {
 }
 
 .main {
-  /* background-color: #ffc200; */
-  background-color: purple;
-  
+  background-color: #ffc200;
 }
 
 /*Header Section*/
